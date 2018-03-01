@@ -1,0 +1,13 @@
+Package: nba
+Title:Package which could return important information of NBA players winin a typical year
+Version: 0.0.0.9000
+Authors@R: "Junyu", "Meng", email = "jm4655@columbia.edu", role = c("aut", "cre")
+Description: This package includes three key functions which could calculate key information based on 
+NBA players' data. The first function aimed to output the player who got the most scores provided a 
+year. The second function can tell you who is the oldest NBA player in terms of an input year. The third 
+function can return the correlation matrix of all numeric data within a year. 
+Depends: R (>= 3.4.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
